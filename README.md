@@ -83,4 +83,4 @@ if (isset($_FILES["backup_file"])) {
 } else {
     echo json_encode(["status" => "error", "message" => "No file uploaded"]);
 }
-?># Sky-Lock
+?>
