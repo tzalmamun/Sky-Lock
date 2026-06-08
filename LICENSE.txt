@@ -1,0 +1,35 @@
+# SkyHostR Commercial Software License Agreement
+
+**Copyright (c) 2026 Al Mamun Sheikh & SkyHostR Bangladesh (https://www.skyhostr.com). All rights reserved.**
+
+By purchasing, downloading, installing, or using the "SkyLock" application (hereinafter referred to as the "Software"), you agree to be bound by the terms and conditions of this License Agreement.
+
+---
+
+### 1. Grant of License
+SkyHostR Bangladesh hereby grants you a non-exclusive, non-transferable, limited license to install and use the Software solely for your personal or authorized commercial business purposes (such as device locking for financing and installment management).
+
+### 2. Restrictions on Use
+You are strictly prohibited from performing any of the following actions without prior written consent from SkyHostR Bangladesh:
+* **Decompilation & Reverse Engineering:** You may not decompile, disassemble, reverse engineer, decrypt, or attempt to extract the source code of the Software.
+* **Redistribution & Reselling:** You may not sell, rent, lease, sub-license, distribute, publish, or publicly display the Software or any modified versions thereof as a standalone product.
+* **Branding Modification:** You may not remove, alter, or obscure any copyright notices, trademarks, or proprietary brandings of **SkyHostR Bangladesh** or **Al Mamun Sheikh** embedded within the Software.
+
+### 3. Ownership and Intellectual Property
+The Software, including all code, designs, layouts, assets, algorithms, and intellectual property associated with it, is and remains the sole and exclusive property of **Al Mamun Sheikh** and **SkyHostR Bangladesh**. Nothing in this Agreement transfers any ownership rights of the core Software or its source code to you.
+
+### 4. Termination of License
+This License is effective until terminated. Your rights under this License will terminate automatically without notice from SkyHostR Bangladesh if you fail to comply with any of its terms. Upon termination, you must cease all use of the Software and destroy all copies in your possession.
+
+### 5. Limitation of Liability
+The Software is provided "AS IS", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
+
+### 6. Governing Law
+This Agreement shall be governed by and construed in accordance with the laws of the People's Republic of Bangladesh, without regard to its conflict of laws principles.
+
+---
+
+For business inquiries, authorized distributor licenses, or enterprise MDM configurations, contact:
+🌐 **Website:** [www.skyhostr.com](https://www.skyhostr.com)  
+✉️ **Developer/Owner:** Al Mamun Sheikh  
+🚀 **Company:** SkyHostR BangladeshBangladesh
